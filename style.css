@@ -1,3 +1,8 @@
+*{
+    background-color: rgb(24, 23, 23);
+    color: rgb(0, 255, 174);
+}
+
 h1{
     text-align: center;
 }
